@@ -1,0 +1,54 @@
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\bin\Debug\EditorApp.exe.config
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\bin\Debug\EditorApp.exe
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\bin\Debug\EditorApp.pdb
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\obj\Debug\EditorApp.Form1.resources
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.cache
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.CoreCompileInputs.cache
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\obj\Debug\EditorApp.exe
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\obj\Debug\EditorApp.pdb
+C:\Users\MetacoB\Desktop\C# 99-03-27\EditorApp\EditorApp\obj\Debug\EditorApp.csprojAssemblyReference.cache
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\bin\Debug\EditorApp.exe.config
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\bin\Debug\EditorApp.exe
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\bin\Debug\EditorApp.pdb
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.csprojAssemblyReference.cache
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.Form1.resources
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.cache
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.CoreCompileInputs.cache
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.exe
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.pdb
+C:\Users\MetacoB\Desktop\C# 99-04-01\EditorApp\EditorApp\obj\Debug\EditorApp.AboutBox1.resources
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\bin\Debug\EditorApp.exe.config
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\bin\Debug\EditorApp.exe
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\bin\Debug\EditorApp.pdb
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.AssemblyReference.cache
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.SuggestedBindingRedirects.cache
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.AboutBox1.resources
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.Form1.resources
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.cache
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.CoreCompileInputs.cache
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.exe
+H:\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.pdb
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\bin\Debug\EditorApp.exe.config
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.exe
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.pdb
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\bin\Debug\EditorApp.exe
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\bin\Debug\EditorApp.pdb
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.csprojResolveAssemblyReference.cache
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.AboutBox1.resources
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.Form1.resources
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+G:\kiyani,Ansari Project\C# 99-04-01NorePad\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.Cache
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\bin\Debug\EditorApp.exe.config
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\bin\Debug\EditorApp.exe
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\bin\Debug\EditorApp.pdb
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.csproj.AssemblyReference.cache
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.AboutBox1.resources
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.Form1.resources
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.cache
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.csproj.CoreCompileInputs.cache
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.exe
+H:\kiyani,Ansari Project\C# 99-04-01NorePad\Notepad\EditorApp\obj\Debug\EditorApp.pdb
